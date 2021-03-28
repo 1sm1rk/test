@@ -11,7 +11,7 @@ Hier steht ein Einleitungstext der beschreibt, was hier so passiert
 * Mixing Bot
 * OwnMower
 
-# Table of contents
+# Table of contents <a name="toc"></a>
 1. [Introduction](#introduction)
 2. [Some paragraph](#paragraph1)
     1. [Sub paragraph](#subparagraph1)
@@ -19,6 +19,7 @@ Hier steht ein Einleitungstext der beschreibt, was hier so passiert
 4. [Projects](#projects)
 
 ## This is the introduction <a name="introduction"></a>
+[Top](#toc)  
 Some introduction text, formatted in heading 2 style
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.   
 
@@ -43,15 +44,18 @@ Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lo
 Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo
 
 ## Some paragraph <a name="paragraph1"></a>
+[Top](#toc)  
 The first paragraph text
 
 ### Sub paragraph <a name="subparagraph1"></a>
+[Top](#toc)  
 This is a sub paragraph, formatted in heading 3 style
 
 ## Another paragraph <a name="paragraph2"></a>
+[Top](#toc)  
 The second paragraph text
 
 
 ## Projects <a name="projects"></a>
+[Top](#toc)  
 Here you find a list of my projetcts
-
